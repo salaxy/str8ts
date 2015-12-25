@@ -1,0 +1,8 @@
+  * Korrekte Implementierung des Spiels Straights
+  * Laden und Speichern eines einzigen letzten Spielstandes (Wenn Zeit dann auch über Dateidialog, aber sollte nur dafür da sein ein letzes Spiel fortzuführen.)
+  * Zeituhr der bisherigen gebrauchten Zeit in der GUI
+  * Menüführung über eine Menüleiste/Menübar
+  * Einstellmöglichkeiten ob Spielgenerierung im Hintergrund über das Menü
+  * Starten neuen Spiels und Auswahl aus einer Liste bisher generierten/vorhandenen Spiele
+  * Generierung von Spielen im Hintergrund der Anwendung, an und abschaltbar über Optionen in Menübar
+  * "Spaß am Spiel" XD
