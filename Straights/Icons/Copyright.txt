@@ -1,6 +1,4 @@
-star.png, no_entry.png und danger.png
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+optionen.ico -> originalfilename: Options alt-64.png
 
-stammen von http://www.woothemes.com/2009/02/wp-woothemes-ultimate-icon-set-first-release/
-
-und unterliegen der GNU General Public License,
-einsehbar hier: http://www.gnu.org/licenses/gpl.html
+http://www.iconspedia.com/icon/options-alt-13220.html

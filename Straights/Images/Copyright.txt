@@ -4,3 +4,11 @@ stammen von http://www.woothemes.com/2009/02/wp-woothemes-ultimate-icon-set-firs
 
 und unterliegen der GNU General Public License,
 einsehbar hier: http://www.gnu.org/licenses/gpl.html
+
+
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+optionen.ico -> originalfilename: Options alt-64.png
+
+http://www.iconspedia.com/icon/options-alt-13220.html
+http://www.iconspedia.com/icon/printer-blue-18626.html
