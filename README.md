@@ -1,5 +1,8 @@
 # str8ts
-Automatically exported from code.google.com/p/str8ts
 
 
-TODO Source fehlt?
+Str8ts puzzle, solver and generator in C#. 2011
+
+
+Andy Klay
+Frank Mertens
